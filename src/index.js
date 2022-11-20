@@ -434,3 +434,4 @@ initializeApp(firebaseAppConfig);
 
 initFirebaseAuth();
 loadMessages();
+getPerformance();
